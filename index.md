@@ -4,34 +4,29 @@ You can use the [editor on GitHub](https://github.com/wecoinproject/wecoinprojec
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# THE REFUGEE CRISIS IS SPIRALING OUT OF CONTROL
+Every minute, 20 people are forced to abandon their homes because of violence or persecution. And if we put all 65.6 million of these people in one place, forming their own country, it would be larger than the United Kingdom. This is the refugee crisis—an immense and unimaginable suffering on a global scale.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![alt text](/r3.png)
 
-```markdown
-Syntax highlighted code block
+# AND WE WANT TO FIX IT.
+We are building a blockchain technology platform for refugee-led projects. This platform is accessed through WeCoin, a cryptocurrency which allows the holder to nominate, vote for, and fund these projects. Users of the platform can also earn WeCoin by completing needed tasks, such as delivering drinking water or supplying a medical clinic. In this way we are developing an ecosystem that empowers refugees through financial inclusion, and massively scaling the efficacy of current relief efforts.
 
-# Header 1
-## Header 2
-### Header 3
+![alt text](/r1.jpg)
 
-- Bulleted
-- List
+# How it works? 
+1. Send a request to WeCoin team and include your full name and copy of your ID (picture is fine).
+1. You will receive an agreement in response. Review it, sign it, and send it back.
+1. Attached to the agreement will be banking information, as well as an wallet address. You can choose to send XLM to our wallet address, or fiat currency to our bank.
+1. We will confirm your wallet details with you and send your WeCoin tokens directly to you.
 
-1. Numbered
-2. List
+![alt text](/r2.jpg)
 
-**Bold** and _Italic_ and `Code` text
+# Why is it necessary?
+Refugees live in a grey-area in society, where sex trafficking, extortion, and slavery are commonplace. Being able to track transactions within the community allows us to flag problems and alert relevant authorities, while keeping us accountable to the public.
 
-[Link](url) and ![Image](src)
-```
+Additionally, the immense public hatred for refugees means we needed a way for participants to have skin-in-the-game when interacting with refugees. (So if someone’s going to troll people on our platform, they’ll need to pay the victims for that.)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Lastly, refugees are generally don’t have credit cards and don’t trust financial institutions. Having a blockchain-based token from a community they’re a part of solves this issue
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wecoinproject/wecoinproject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Tweet Me](https://twitter.com/SriKolagani) 
